@@ -17,4 +17,4 @@ Me chamo **Gabriela** e:
 
   
 
-- Atualmente cursando os bootcamps: de UX Design do IGTI, de JavaScript Game Developer da DIO
+- Atualmente cursando os bootcamps: UX Design do IGTI, JavaScript Game Developer da DIO
