@@ -9,7 +9,7 @@ Me chamo **Gabriela** e:
 
   
 
-- Aluna da Saga no curso de games
+- Aluna de games na Saga
 
   
 
