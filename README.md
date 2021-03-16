@@ -9,11 +9,11 @@ Me chamo **Gabriela** e:
 
   
 
-- Também sou aluna da Saga no curso de games
+- Aluna da Saga no curso de games
 
   
 
-- Faço iniciação científica  (narrativa em games)
+- Bolsista de iniciação científica  (narrativa em games)
 
   
 
