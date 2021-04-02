@@ -9,15 +9,11 @@ Me chamo **Gabriela** e:
 
   
 
-- Aluna de games na Saga
-
-  
-
 - Bolsista de iniciação científica  (narrativa em games)
 
   
 
-- Atualmente cursando os bootcamps: UX Design do IGTI, JavaScript Game Developer da DIO
+- Atualmente estudando front-end
 
 
 <img align="center" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615938271359.png" width="400px">
